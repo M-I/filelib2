@@ -1,0 +1,11 @@
+deps/*
+ebin/*
+.eunit/*
+_rel/*
+.erlang.mk.packages*
+priv/*
+.rebar/*
+test/*.beam
+erl_crash.dump
+.erlang.mk/*
+.DS_Store

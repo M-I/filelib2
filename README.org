@@ -1,0 +1,17 @@
+* filelib2
+Helper functions for files, symbolic links and folders
+
+* Build
+  #+BEGIN_SRC sh
+     make
+  #+END_SRC
+
+* Doc
+  #+BEGIN_SRC sh
+     make edoc
+  #+END_SRC
+
+* Test
+  #+BEGIN_SRC sh
+     make tests
+  #+END_SRC
