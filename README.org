@@ -8,7 +8,7 @@ Helper functions for files, symbolic links and folders
 
 * Doc
   #+BEGIN_SRC sh
-     make edoc
+     make docs
   #+END_SRC
 
 * Test
